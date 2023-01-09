@@ -1,3 +1,11 @@
+print("hello")
+a = 1
+b = 2
+print(a+b)
+
+import pandas as pd
+
+
 VER = 8
 
 import pandas as pd, numpy as np
